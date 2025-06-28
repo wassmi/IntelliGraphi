@@ -1,6 +1,9 @@
 # IntelliGraphi
+
 Project: IntelliGraphi - AI-Powered Knowledge Graph Visualization & RAG Platform
-Live Demo: https://intelligraphi-180686635896.us-west1.run.app/
+
+[IntelliGraphi Live Demo](https://intelligraphi-180686635896.us-west1.run.app/)
+
 Project Overview
 
 IntelliGraphi is a sophisticated, browser-based application designed to bridge the gap between unstructured data and structured, actionable insights. At its core, it leverages a powerful Retrieval-Augmented Generation (RAG) pipeline to parse large documents (PDFs, TXT files) and transform their contents into interactive, high-performance knowledge graphs.
